@@ -21,8 +21,8 @@ _текст может быть курсивом и при этом **полуж
     ![]();
 
 Например:
-![картинка](https://topkin.ru/wp-content/uploads/2017/12/7-6.jpg)
-[картинка](https://topkin.ru/wp-content/uploads/2017/12/7-6.jpg)
+![картинка](./sea.jpg)
+[картинка](./sea.jpg)
 
 ## Ссылки
 
